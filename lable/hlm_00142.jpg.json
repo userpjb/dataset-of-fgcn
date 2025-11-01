@@ -1,0 +1,39 @@
+{
+    "annos": [
+        {
+            "area": 74700,
+            "bbox": [
+                36,
+                123,
+                225,
+                332
+            ],
+            "category_name": "people",
+            "score": 0.8234719038009644
+        },
+        {
+            "area": 1600,
+            "bbox": [
+                199,
+                175,
+                50,
+                32
+            ],
+            "category_name": "face",
+            "score": 0.4498661458492279
+        },
+        {
+            "area": 239382,
+            "bbox": [
+                24,
+                22,
+                403,
+                594
+            ],
+            "category_name": "panel"
+        }
+    ],
+    "file_name": "hlm_00142.jpg",
+    "height": 640,
+    "width": 640
+}

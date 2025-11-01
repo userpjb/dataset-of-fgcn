@@ -1,0 +1,94 @@
+{
+    "annos": [
+        {
+            "area": 55212,
+            "bbox": [
+                99,
+                177,
+                172,
+                321
+            ],
+            "category_name": "people",
+            "score": 0.613214910030365
+        },
+        {
+            "area": 51425,
+            "bbox": [
+                267,
+                88,
+                121,
+                425
+            ],
+            "category_name": "people",
+            "score": 0.511753261089325
+        },
+        {
+            "area": 53444,
+            "bbox": [
+                303,
+                129,
+                124,
+                431
+            ],
+            "category_name": "people",
+            "score": 0.5379553437232971
+        },
+        {
+            "area": 1368,
+            "bbox": [
+                324,
+                133,
+                36,
+                38
+            ],
+            "category_name": "face",
+            "score": 0.4882129728794098
+        },
+        {
+            "area": 193516,
+            "bbox": [
+                23,
+                85,
+                404,
+                479
+            ],
+            "category_name": "people",
+            "score": 0.4142538905143738
+        },
+        {
+            "area": 1435,
+            "bbox": [
+                74,
+                290,
+                35,
+                41
+            ],
+            "category_name": "face",
+            "score": 0.36935463547706604
+        },
+        {
+            "area": 1728,
+            "bbox": [
+                106,
+                204,
+                48,
+                36
+            ],
+            "category_name": "face",
+            "score": 0.4067671597003937
+        },
+        {
+            "area": 237200,
+            "bbox": [
+                23,
+                23,
+                400,
+                593
+            ],
+            "category_name": "panel"
+        }
+    ],
+    "file_name": "hlm_00154.jpg",
+    "height": 640,
+    "width": 640
+}

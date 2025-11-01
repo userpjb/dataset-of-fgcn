@@ -1,0 +1,93 @@
+{
+    "annos": [
+        {
+            "area": 1760,
+            "bbox": [
+                133,
+                215,
+                44,
+                40
+            ],
+            "category_name": "face",
+            "score": 0.652938187122345
+        },
+        {
+            "area": 1505,
+            "bbox": [
+                156,
+                114,
+                43,
+                35
+            ],
+            "category_name": "face",
+            "score": 0.615068256855011
+        },
+        {
+            "area": 1435,
+            "bbox": [
+                520,
+                182,
+                41,
+                35
+            ],
+            "category_name": "face",
+            "score": 0.6350557208061218
+        },
+        {
+            "area": 55917,
+            "bbox": [
+                447,
+                148,
+                171,
+                327
+            ],
+            "category_name": "people",
+            "score": 0.48522070050239563
+        },
+        {
+            "area": 36960,
+            "bbox": [
+                108,
+                177,
+                105,
+                352
+            ],
+            "category_name": "people",
+            "score": 0.45480218529701233
+        },
+        {
+            "area": 2596,
+            "bbox": [
+                315,
+                195,
+                59,
+                44
+            ],
+            "category_name": "face",
+            "score": 0.43670740723609924
+        },
+        {
+            "area": 293760,
+            "bbox": [
+                107,
+                32,
+                510,
+                576
+            ],
+            "category_name": "panel"
+        },
+        {
+            "area": 53300,
+            "bbox": [
+                265,
+                165,
+                164,
+                325
+            ],
+            "category_name": "people"
+        }
+    ],
+    "file_name": "hlm_00433.jpg",
+    "height": 640,
+    "width": 640
+}

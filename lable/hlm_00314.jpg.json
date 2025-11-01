@@ -1,0 +1,93 @@
+{
+    "annos": [
+        {
+            "area": 1640,
+            "bbox": [
+                206,
+                224,
+                40,
+                41
+            ],
+            "category_name": "face",
+            "score": 0.6463285684585571
+        },
+        {
+            "area": 1353,
+            "bbox": [
+                458,
+                216,
+                33,
+                41
+            ],
+            "category_name": "face",
+            "score": 0.5644038319587708
+        },
+        {
+            "area": 1755,
+            "bbox": [
+                347,
+                217,
+                45,
+                39
+            ],
+            "category_name": "face",
+            "score": 0.5479366183280945
+        },
+        {
+            "area": 1258,
+            "bbox": [
+                371,
+                244,
+                34,
+                37
+            ],
+            "category_name": "face",
+            "score": 0.5665861964225769
+        },
+        {
+            "area": 1148,
+            "bbox": [
+                523,
+                218,
+                28,
+                41
+            ],
+            "category_name": "face",
+            "score": 0.5046913027763367
+        },
+        {
+            "area": 34560,
+            "bbox": [
+                503,
+                190,
+                108,
+                320
+            ],
+            "category_name": "people",
+            "score": 0.3975445032119751
+        },
+        {
+            "area": 294711,
+            "bbox": [
+                106,
+                31,
+                509,
+                579
+            ],
+            "category_name": "panel"
+        },
+        {
+            "area": 42713,
+            "bbox": [
+                149,
+                190,
+                121,
+                353
+            ],
+            "category_name": "people"
+        }
+    ],
+    "file_name": "hlm_00314.jpg",
+    "height": 640,
+    "width": 640
+}

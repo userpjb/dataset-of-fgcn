@@ -1,0 +1,117 @@
+{
+    "annos": [
+        {
+            "area": 39216,
+            "bbox": [
+                131,
+                286,
+                152,
+                258
+            ],
+            "category_name": "people",
+            "score": 0.5961586236953735
+        },
+        {
+            "area": 1287,
+            "bbox": [
+                220,
+                294,
+                33,
+                39
+            ],
+            "category_name": "face",
+            "score": 0.532404363155365
+        },
+        {
+            "area": 1014,
+            "bbox": [
+                389,
+                236,
+                26,
+                39
+            ],
+            "category_name": "face",
+            "score": 0.5039375424385071
+        },
+        {
+            "area": 17085,
+            "bbox": [
+                376,
+                224,
+                51,
+                335
+            ],
+            "category_name": "people",
+            "score": 0.5301883220672607
+        },
+        {
+            "area": 30603,
+            "bbox": [
+                21,
+                253,
+                101,
+                303
+            ],
+            "category_name": "people",
+            "score": 0.46791908144950867
+        },
+        {
+            "area": 1155,
+            "bbox": [
+                82,
+                268,
+                35,
+                33
+            ],
+            "category_name": "face",
+            "score": 0.4881753623485565
+        },
+        {
+            "area": 812,
+            "bbox": [
+                136,
+                244,
+                28,
+                29
+            ],
+            "category_name": "face",
+            "score": 0.4718968868255615
+        },
+        {
+            "area": 143420,
+            "bbox": [
+                23,
+                208,
+                404,
+                355
+            ],
+            "category_name": "people",
+            "score": 0.46166083216667175
+        },
+        {
+            "area": 41772,
+            "bbox": [
+                268,
+                208,
+                118,
+                354
+            ],
+            "category_name": "people",
+            "score": 0.4442616105079651
+        },
+        {
+            "area": 242572,
+            "bbox": [
+                20,
+                23,
+                407,
+                596
+            ],
+            "category_name": "panel",
+            "score": 0.48276978731155396
+        }
+    ],
+    "file_name": "hlm_00255.jpg",
+    "height": 640,
+    "width": 640
+}

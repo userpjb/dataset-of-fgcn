@@ -1,0 +1,105 @@
+{
+    "annos": [
+        {
+            "area": 1849,
+            "bbox": [
+                242,
+                157,
+                43,
+                43
+            ],
+            "category_name": "face",
+            "score": 0.6840530633926392
+        },
+        {
+            "area": 1720,
+            "bbox": [
+                471,
+                152,
+                43,
+                40
+            ],
+            "category_name": "face",
+            "score": 0.6403188109397888
+        },
+        {
+            "area": 1748,
+            "bbox": [
+                537,
+                97,
+                46,
+                38
+            ],
+            "category_name": "face",
+            "score": 0.6259288787841797
+        },
+        {
+            "area": 75810,
+            "bbox": [
+                334,
+                127,
+                210,
+                361
+            ],
+            "category_name": "people",
+            "score": 0.44725140929222107
+        },
+        {
+            "area": 53746,
+            "bbox": [
+                145,
+                129,
+                154,
+                349
+            ],
+            "category_name": "people",
+            "score": 0.4480491876602173
+        },
+        {
+            "area": 37152,
+            "bbox": [
+                523,
+                71,
+                96,
+                387
+            ],
+            "category_name": "people",
+            "score": 0.41257384419441223
+        },
+        {
+            "area": 220672,
+            "bbox": [
+                106,
+                71,
+                512,
+                431
+            ],
+            "category_name": "people",
+            "score": 0.380205899477005
+        },
+        {
+            "area": 42642,
+            "bbox": [
+                106,
+                98,
+                103,
+                414
+            ],
+            "category_name": "people",
+            "score": 0.38332271575927734
+        },
+        {
+            "area": 295358,
+            "bbox": [
+                106,
+                31,
+                511,
+                578
+            ],
+            "category_name": "panel"
+        }
+    ],
+    "file_name": "hlm_00475.jpg",
+    "height": 640,
+    "width": 640
+}

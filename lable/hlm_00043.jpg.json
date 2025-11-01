@@ -1,0 +1,105 @@
+{
+    "annos": [
+        {
+            "area": 55965,
+            "bbox": [
+                69,
+                344,
+                205,
+                273
+            ],
+            "category_name": "people",
+            "score": 0.5683823823928833
+        },
+        {
+            "area": 1638,
+            "bbox": [
+                317,
+                270,
+                39,
+                42
+            ],
+            "category_name": "face",
+            "score": 0.528881847858429
+        },
+        {
+            "area": 46540,
+            "bbox": [
+                265,
+                245,
+                130,
+                358
+            ],
+            "category_name": "people",
+            "score": 0.584220826625824
+        },
+        {
+            "area": 1400,
+            "bbox": [
+                162,
+                212,
+                35,
+                40
+            ],
+            "category_name": "face",
+            "score": 0.4926559627056122
+        },
+        {
+            "area": 1344,
+            "bbox": [
+                35,
+                226,
+                32,
+                42
+            ],
+            "category_name": "face",
+            "score": 0.4908581078052521
+        },
+        {
+            "area": 4158,
+            "bbox": [
+                120,
+                378,
+                63,
+                66
+            ],
+            "category_name": "face",
+            "score": 0.5737022757530212
+        },
+        {
+            "area": 1360,
+            "bbox": [
+                91,
+                181,
+                34,
+                40
+            ],
+            "category_name": "face",
+            "score": 0.46483707427978516
+        },
+        {
+            "area": 15975,
+            "bbox": [
+                142,
+                174,
+                75,
+                213
+            ],
+            "category_name": "people",
+            "score": 0.4129699766635895
+        },
+        {
+            "area": 238194,
+            "bbox": [
+                22,
+                23,
+                401,
+                594
+            ],
+            "category_name": "panel"
+        }
+    ],
+    "file_name": "hlm_00043.jpg",
+    "height": 640,
+    "width": 640
+}
